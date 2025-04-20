@@ -6,7 +6,7 @@ title: "Teaching"
 
 ## Lecturer, McGill University (2019-2020)
 
-* Introduction to Education Economics
+* Microeconomic Analysis and Applications
 * International Trade
 
 ## Teaching Assistant, McGill University (2014-2020)
