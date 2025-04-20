@@ -3,7 +3,7 @@ permalink: /publications/
 title: "Publications"
 ---
 
-## International Journal Publications
+## Academic Journals
 
 * **Li, Yifan**, Zhuang Miao. 2024. "The rise of superstar firms in the United States: The role of global sourcing". *Journal of Comparative Economics*, 52(1): 113-144. [DOI](https://doi.org/10.1016/j.jce.2023.08.003) **(JCR Q1)**
 
