@@ -14,8 +14,11 @@ main:
   # - title: "Home"
   #   url: /home/    
 
-  - title: "Research"
-    url: /research/
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Working Papers"
+    url: /workingpapers/
 
   - title: "Teaching"
     url: /teaching/    
