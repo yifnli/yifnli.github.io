@@ -1,36 +1,54 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Research"
+permalink: /Research/
 author_profile: true
 ---
-
 {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
-
 {% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+<h2>Academic Publications</h2><hr />
+<div class="wordwrap">
+  <p><b>Li, Y.</b>, & Miao, Z. (2024). "The rise of superstar firms in the United States: The role of global sourcing." <i>Journal of Comparative Economics</i>, 52(1): 113-144.</p>
+  
+  <p><b>Li, Y.</b>, Miao, Z., & Tuuli, M. (2022). "Effect of Exchange Rate Volatility on Import of Intermediate Inputs: Evidence from Chinese Firms." <i>International Review of Economics & Finance</i>, 82: 120-134.</p>
+  
+  <p>Duan, S., <b>Li, Y.</b>, & Miao, Z. (2021). "Income Inequality and Trade of 'Made in China'." <i>The Journal of International Trade & Economic Development</i>, 31(4): 614-645.</p>
+</div>
 
+<h2>Working Papers</h2><hr />
+<div class="wordwrap">
+  <p><b>Li, Y.</b>, Miao, Z., Wang, J., & Zhang, Y. (2025). "FDI Liberalization, Educational Attainment, and Labor Market Allocation: Evidence from China's Quasi-Natural Experiment." <i>Revised & resubmitted, European Economic Review</i>.</p>
+  
+  <p><b>Li, Y.</b>, Miao, Z., & Tuuli, M. (2025). "Destination Financial Stress and Export Performance: Firm-level evidence from China." <i>Revised & resubmitted, Emerging Markets Finance and Trade</i>.</p>
+  
+  <p><b>Li, Y.</b>, Long, N.V., & Miao, Z. (2020). "Effects of Exchange Rate Volatility on Export Diversity: The Role of Production Constraints." <i>CIRANO Working Paper No.2020s-41</i>.</p>
+  
+  <p>Chan, Y.T., <b>Li, Y.</b>, & Sun, Q. (2018). "Export Sophistication Upgrade and Urban-Rural Income Inequality: Evidence from China 2000-2009." <i>ECINEQ Working Paper</i>.</p>
+  
+  <p>Amodio, F., Di Maio, M., <b>Li, Y.</b>, & Piraino, P. (2020). "Product market competition and the labour market." <i>No. wp-2020-39. World Institute for Development Economic Research (UNU-WIDER)</i>.</p>
+</div>
 
+<h2>Work in Progress</h2><hr />
+<div class="wordwrap">
+  <p>"Trade Liberalization and Firm Productivity: Evidence from China's WTO Accession"</p>
+  
+  <p>"Exchange Rate Volatility and Global Value Chain Participation"</p>
+  
+  <p>"Education Policy and Economic Development in Resource-Constrained Environments"</p>
+</div>
 
+<h2>Policy Reports</h2><hr />
+<div class="wordwrap">
+  <p>United Nations Secretariat. (2023). <i>2022 United Nations Secretariat Risk Assessment Report</i>. New York: United Nations Publishing.</p>
+  
+  <p>UNESCO, UNICEF, OECD, World Bank. (2021). <i>What is Next? Lessons on Education Recovery Findings from a Survey of Ministries of Education amid the COVID-19 Pandemic</i>. Paris: OECD Publishing.</p>
+  
+  <p>UNESCO Institute for Statistics. (2021). <i>Using the Joint Survey of National Education Responses to Monitor GEM Commitments</i>. Information Paper UIS/2021/LO/IP/69. Montreal: UNESCO.</p>
+  
+  <p>UNESCO, UNICEF, World Bank. (2020). <i>What Have We Learnt?: Overview of Findings from a Survey of Ministries of Education on National Responses to COVID-19</i>. Washington, D.C.: World Bank.</p>
+  
+  <p>UNESCO Institute for Statistics. (2020). <i>Survey of COVID-19 impact on national education planning units</i>. Information Paper UIS/2020/LO/IP/66. Montreal: UNESCO.</p>
+</div>
