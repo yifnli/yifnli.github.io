@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Teaching"
 permalink: /teaching/
 author_profile: true
@@ -7,8 +7,8 @@ author_profile: true
 
 ## Lecturer, McGill University (2019-2020)
 
-* Microeconomic Analysis and Applications (ECON 208)
-* Environmental Economics (ECON 225)
+* Introduction to Education Economics
+* International Trade
 
 ## Teaching Assistant, McGill University (2014-2020)
 
