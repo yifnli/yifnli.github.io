@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Yifan Li / Economist"
+title                    : "About"
 title_separator          : "-"
 name                     : &name "Yifan Li"
 description              : &description "Economist specializing in international trade and development economics"
