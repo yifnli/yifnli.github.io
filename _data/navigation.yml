@@ -11,8 +11,8 @@ main:
   # - title: "Talks"
   #   url: /talks/    
 
-  - title: "Home"
-    url: /home/    
+  # - title: "Home"
+  #   url: /home/    
 
   - title: "Research"
     url: /research/
