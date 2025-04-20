@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Teaching"
 permalink: /teaching/
-author_profile: true
+title: "Teaching"
 ---
+
 
 ## Lecturer, McGill University (2019-2020)
 
