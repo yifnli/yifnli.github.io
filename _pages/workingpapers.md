@@ -7,8 +7,6 @@ title: "Working Papers"
 
 * **Li, Yifan**, Zhuang Miao, Junbo Wang, Yan Zhang. 2025. "FDI Liberalization, Educational Attainment, and Labor Market Allocation: Evidence from China's Quasi-Natural Experiment". Revised \& resubmitted, *European Economic Review*
 
-* **Li, Yifan**, Zhuang Miao, Maxwell Tuuli. 2025. "Destination Financial Stress and Export Performance: Firm-level evidence from China". Revised \& resubmitted, *Emerging Markets Finance and Trade*
-
 * **Li, Yifan**, Ngo Van Long, Zhuang Miao. 2020. "Effects of Exchange Rate Volatility on Export Diversity: The Role of Production Constraints". CIRANO Working Paper No.2020s-41. [Link](https://cirano.qc.ca/publications/2020s-41)
 
 * Chan, Ying Tung, **Yifan Li**, Qian Sun. 2018. "Export Sophistication Upgrade and Urban-Rural Income Inequality: Evidence from China 2000-2009". ECINEQ Working Paper. [Link](https://www.ecineq.org/working-papers/2018/paper1234)
@@ -18,5 +16,3 @@ title: "Working Papers"
 ## Work in Progress
 
 * **Li, Yifan**, Zhuang Miao. 2025. "Automation and Wage Markdown: Firm-level evidence from China".
-
-* **Li, Yifan**, Zhuang Miao, Maxwell Tuuli. 2025. "Quantifying the Role of Digital Technology in the Growth of Digital Trade".
