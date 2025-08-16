@@ -5,6 +5,8 @@ title: "Publications"
 
 ## Academic Journals
 
+* **Li, Yifan**, Zhuang Miao, Maxwell Tuuli. 2025. "Destination Financial Stress and Export Performance: Firm-level evidence from China". *Emerging Markets Finance and Trade*, Accepted **(JCR Q1)**
+
 * **Li, Yifan**, Zhuang Miao. 2024. "The rise of superstar firms in the United States: The role of global sourcing". *Journal of Comparative Economics*, 52(1): 113-144. [DOI](https://doi.org/10.1016/j.jce.2023.08.003) **(JCR Q1)**
 
 * **Li, Yifan**, Zhuang Miao, Maxwell Tuuli. 2022. "Effect of Exchange Rate Volatility on Import of Intermediate Inputs: Evidence from Chinese Firms". *International Review of Economics \& Finance*, 82: 120-134. [DOI](https://doi.org/10.1016/j.iref.2022.06.012) **(JCR Q1)**
